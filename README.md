@@ -1,7 +1,7 @@
 # Face Generator
 
 ## Introduciton
-In this project, you'll use generative adversarial networks to generate new images of faces.
+In this project, you'll use generative adversarial networks to generate new images of faces based on a dataset with images of celebrities. 
 
 ## Getting the project files
 The project files can be found in our [public GitHub repo](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/), in the `project-face-generation folder`.
