@@ -1,6 +1,6 @@
 # Face Generator
 
-## Introduciton
+## Introduction
 In this project, you'll use generative adversarial networks to generate new images of faces based on a dataset with images of celebrities. 
 
 ## Getting the project files
